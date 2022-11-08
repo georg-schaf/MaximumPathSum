@@ -1,0 +1,7 @@
+namespace MaximumPathSum
+{
+    class Input
+    {
+        
+    }
+}
